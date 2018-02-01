@@ -1,1 +1,1 @@
-# sims_alumni
+# sim_alumni
